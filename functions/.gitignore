@@ -1,0 +1,6 @@
+node_modules/
+
+# certificates and private keys
+*.p12
+*.cer
+*.pem
